@@ -1,2 +1,2 @@
-# Soft-Computing-Lab-2024-
+# Soft-Computing-Lab-2024
 Learn and upgrade the resources and developments in Soft Computing...
