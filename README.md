@@ -36,6 +36,9 @@ This repository contains the projects and assignments for the Soft Computing Lab
    > cd Soft-Computing-Lab-2024
    ```
 3. Open the relevant files in your preferred IDE or text editor.
+   ```bash
+   > code .
+   ```
 
 
 ## Contributing
@@ -51,7 +54,7 @@ This project is licensed under the MIT License. -->
 For any questions or suggestions, please reach out to [GitHub](https://github.com/ramprasathmk/).
 
 
-### Show your support
+## Show your support
 
 Give a ⭐ if you like this repository!
 
