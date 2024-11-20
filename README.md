@@ -29,15 +29,15 @@ This repository contains the projects and assignments for the Soft Computing Lab
 ## How to Use
 1. Clone the repository:  
    ```bash
-   > git clone https://github.com/ramprasathmk/Soft-Computing-Lab-2024.git
+   git clone https://github.com/ramprasathmk/Soft-Computing-Lab-2024.git
    ```
 2. Navigate to the project directory:
    ```bash
-   > cd Soft-Computing-Lab-2024
+   cd Soft-Computing-Lab-2024
    ```
 3. Open the relevant files in your preferred IDE or text editor.
    ```bash
-   > code .
+   code .
    ```
 
 
